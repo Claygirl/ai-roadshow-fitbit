@@ -1,5 +1,7 @@
-# ai-roadshow-fitbit
-Fitbit data analysis for infoShare AI Roadshow
+# Data Science na danych z trackera aktywności - case
+## Czy jestem meteoropatką?
+
+W analizie pokazuję jak można przykładowo skorelować dane o efektywności snu i tętnie spoczynkowym z danymi pogodowymi. W projekcie Jupyterowym wykorzystane zostały: Pandas, Seaborn, Numpy i StatsModels.
 
 # Jak pobrać dane z Fitbit Web API?
 
