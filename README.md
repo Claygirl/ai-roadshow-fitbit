@@ -3,11 +3,11 @@
 
 W analizie pokazuję jak można przykładowo skorelować dane o efektywności snu i tętnie spoczynkowym z danymi pogodowymi. W projekcie Jupyterowym wykorzystane zostały: Pandas, Seaborn, Numpy i StatsModels.
 
+---
+
 # Jak pobrać dane z Fitbit Web API?
 
 Rejestracja nowej aplikacji na stronie [https://dev.fitbit.com/apps/new](https://dev.fitbit.com/apps/new). Ważne, żeby zaznaczyć "OAuth 2.0 Application Type" jako "Personal". Wymagane URLe mogą być dowolne, ale zaczynające się od http://, strony nie są sprawdzane przy rejestracji.
-
----
 
 ![Strona zarejestrowanej aplikacji](images/tutorial.png)
 
