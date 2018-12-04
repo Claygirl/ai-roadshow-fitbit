@@ -1,3 +1,7 @@
+![infoShare AI Roadshow](images/logo-infoshare_roadshow.png)
+
+Materiały zostały przygotowane na infoShare AI Roadshow 2018.
+
 # Data Science na danych z trackera aktywności - case
 ## Czy jestem meteoropatką?
 
